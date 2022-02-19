@@ -1,4 +1,5 @@
-##Perguntas orientadoras da análise:
+Perguntas orientadoras da análise:
+-----------------------------------
 
 - Quais indicadores devo olhar para encontrar um possível sucesso com os dados que me foram dados?
 - Existe alguma relação inerente a esses dados?
